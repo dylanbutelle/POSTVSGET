@@ -1,0 +1,10 @@
+body{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.result{
+    border: black 2px dashed;
+    margin-top: 20px;
+}
